@@ -1,0 +1,23 @@
+color White=#ffffff;
+color Black=#000000;
+color Red=#ff0000;
+color Blue=#0000ff;
+color Pink=#ff00ff;
+color Yellow=#ffff00;
+color Green=#00ff00;
+color Orange=#ff8000;
+color Purple=#8000ff;
+color Aqua=#00ffff;
+//
+String textwhite = "White";
+String textblack = "Black";
+String textRed = "Red";
+String textBlue = "Blue";
+String textPink = "Pink";
+String textYellow = "Yellow";
+String textGreen = "Green";
+String textOrange = "Orange";
+String textPurple = "Purple";
+String textAqua = "Aqua";
+String textCircle = "Circle";
+String textPencil = "Pencil";
